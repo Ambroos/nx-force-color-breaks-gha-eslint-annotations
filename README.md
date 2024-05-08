@@ -1,0 +1,3 @@
+# NxForceColorBreaksGhaEslintAnnotations
+
+See actions runs.
